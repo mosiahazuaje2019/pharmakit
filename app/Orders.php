@@ -6,5 +6,5 @@ use Illuminate\Database\Eloquent\Model;
 
 class Orders extends Model
 {
-    //Lo que sea
+    //Lo que sea a esto le seguimos agregando cambios de cualquier tipo
 }
