@@ -11,7 +11,7 @@ class User extends Authenticatable
     use Notifiable;
 
     /**
-     * Modelo de usuarios en cambios 001 para prod
+     * Modelo de usuarios en cambios 001 para prod este no pasa
      *
      * @var array
      */
