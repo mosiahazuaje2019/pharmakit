@@ -6,5 +6,5 @@ use Illuminate\Database\Eloquent\Model;
 
 class Orders extends Model
 {
-    //Lo que sea a esto le s
+    //Lo que sea a esto le sasdnajsdjasjdhaskjhdksjahdajskdh
 }
