@@ -6,5 +6,5 @@ use Illuminate\Database\Eloquent\Model;
 
 class Orders extends Model
 {
-    //Modelo de ordenes
+    //Modelo de ordenes en cambios 001 para prod
 }
