@@ -11,7 +11,7 @@ class User extends Authenticatable
     use Notifiable;
 
     /**
-     * The attributes that are mass assignable. continuamos con los cambios
+     * The attributes that are mass assignable.  continuamos con los cambios
      *
      * @var array
      */
